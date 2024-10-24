@@ -1,0 +1,11 @@
+{
+    "leads": [
+      { "name": "John Doe", "email": "john@example.com", "campaign": "Campaign A" },
+      { "name": "Jane Smith", "email": "jane@example.com", "campaign": "Campaign B" }
+    ],
+    "campaigns": [
+      { "name": "Campaign A", "budget": 1000, "leads": 120 },
+      { "name": "Campaign B", "budget": 2000, "leads": 50 }
+    ]
+  }
+  
